@@ -1,0 +1,15 @@
+{
+  "short_name": "My Portfolio",
+  "name": "Portfolio by Zhuk Mykhailo",
+  "icons": [
+    {
+      "src": "favicon-portfolio-transparent.png",
+      "sizes": "176x40",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
